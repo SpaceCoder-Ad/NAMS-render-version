@@ -49,7 +49,7 @@ def button_click(update: Update, context: CallbackContext) -> None:
 
 def main():
     # Replace 'YOUR_API_TOKEN' with the bot token from BotFather
-    bot_token = 'YOUR_API_TOKEN'
+    bot_token = '7859553921:AAHDfvkoNlX48XZg3dMQZyM7yIfwZMsZMow'
     updater = Updater(bot_token, use_context=True)
     dp = updater.dispatcher
 
